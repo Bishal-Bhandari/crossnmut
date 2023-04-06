@@ -4,7 +4,7 @@ import os
 
 VERSION = '0.0.1'
 DESCRIPTION = 'Basic 2 point crossover and mutation'
-LONG_DESCRIPTION = 'A basic 2 point crossover and mutation package using dict.'
+LONG_DESCRIPTION = 'A basic 2 point crossover and mutation (2 point adn random) package using dict.'
 
 # Setting up
 setup(

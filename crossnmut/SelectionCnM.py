@@ -13,6 +13,7 @@ def TwoPointMutation(x_value, y_value):
     return x_value, y_value
 
 
+# Random mutation
 def mutation(x_value, y_value):
     for m_index in range(len(x_value)):
         random_val = int(np.random.uniform(1, (len(x_value) - 1)))
